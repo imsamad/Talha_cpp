@@ -1,0 +1,31 @@
+Arithmatic Operator - Math me +, -, *, / or %
+
+26 / 5 = 5
+
+26 % 5 = 1
+
+10 + 5 = 15;
+
+Arithmatic Expression
+10 + 5 + 8 - 6 = 17
+Evalute / Evaluation  - Reault nikana
+
+BODMAS:
+B - Bracket
+O - Open
+D - Divide
+M - Multiply
+A - Addiiton
+S - Substraction
+
+Question 1 -
+10 - 5 + 45 / 5
+step 1: 10 - 5 + 9
+step 2: 10 - 14
+step 3: -4;
+
+Question 2 - 
+10 - (5 + 45) / 5
+step 1: 10 - 50 / 5;
+step 2: 10 - 10;
+step 3: 0 

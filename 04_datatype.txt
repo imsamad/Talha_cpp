@@ -1,0 +1,33 @@
+Normal life - 
+
+1.) Number
+    a.) Integer ....,-2,-1,0,1,2,3,.....
+    b.) (Floating Number (Point wale) 12.9
+
+2.) Alphabet
+
+Computer Language
+
+1.) Numeric
+    a.) Integer:
+        - Syntax:
+            int x = 10;
+            truncate decimal wala part
+            int y = 25 / 4 = 6(.25);
+        - Size: 4byte
+            - 1byte = 8bit
+            - 4 * 8 byte = 32 bit;
+        - Range -2147483648 to 2147483647
+
+    b.) Float:  
+        - Syntax:
+            float x = 12.8;
+        - Size: 4byte   
+        - Range: 1.2E-38 to 3.4E+38
+             
+2.) Character
+        - It include all the keys on keyboards.
+        - Syntax:
+            char ch = '1';
+            char ch1 = '2';
+            char res = ch  + ch1;

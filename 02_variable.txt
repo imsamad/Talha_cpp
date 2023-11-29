@@ -1,0 +1,34 @@
+Data - It is information.
+
+Memory - RAM / Hard Disk or Storage
+
+Read-only Memory
+
+Variable - It is used to save the address of data stored in memory.
+Syntax - 
+datatype variable_name = value;
+
+1.) Declaration
+e.g.
+Syntax int x;
+
+2.) Initialise 
+Inital + ise
+Variable Initialise = Variable value first time assign(save)) karna.
+
+Syntax: 
+int x = 10; // Actual value dede
+int y = x; // Dusre variable ki value dede
+
+int y = a+b-c; // variable ke  exression ka result se assign karde
+
+3.) Modify / Update / Re-assign
+Jaruri ye he ki jis variable ko hum update kar rahe
+he wo declare bhi ho chuka ho
+
+e.g.
+x = 20;
+int lagane ki jarurat kyu nahi he.
+Kyunki hamne pehle hi x ko declare kar dya he.
+
+

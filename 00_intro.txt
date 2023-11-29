@@ -1,0 +1,28 @@
+Programming Language - 
+
+Computer - 
+
+Computer keval machine language smajh sake.
+010101
+Is tarah ki hoti he
+010101010101010101010101010101
+010101010101010101010101010111
+
+
+Human - Natural Language samjh sake
+Hindi, English, Urdu etc.
+
+Programming Language - 
+Insan ko samajh aane vali wali or jaldi sikh jane vali langauge.
+
+Compiler - 
+Code -> Machine language -> Computer
+Translator
+Hindi -> Chinese -> Chinese smajh ra
+
+Compilation - Process of converting/translating Programming code to machine code.
+
+Compiler = Translator + build-in functions libraries e.g. stdio.h
+
+Library is a file, jisme kuchh function pehle se bane banaye hote he
+
